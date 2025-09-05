@@ -1,0 +1,1 @@
+In this repository we share the implementation of the numerical scheme proposed in the article "Age-structured stochastic populations under dynamic  harvesters' behavior: well-posedness, asymptotic stability and numerically-amenable approximations"
