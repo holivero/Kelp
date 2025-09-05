@@ -1,1 +1,6 @@
 In this repository we share the implementation of the numerical scheme proposed in the article "Age-structured stochastic populations under dynamic  harvesters' behavior: well-posedness, asymptotic stability and numerically-amenable approximations" by M. Isidora Ávila-Thieme, Kerlyns Martínez, Héctor Olivero, Mauricio Tejo, and Leonardo Videla.
+
+
+![Animación del proyecto](animations/comparingBySubsidy/0
+
+/LevelSetHistogram_E_vs_TP.gif)
