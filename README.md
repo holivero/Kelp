@@ -98,7 +98,7 @@ We used three levels: 0 (clp), 150 (clp) and 300 (clp). Bellow we show the outpu
 
 ---
 
-### Complince (E) vs Total population (Adults + Juveniles)
+### Compliance (E) vs Total population (Adults + Juveniles)
 <div align="center">
 <table>
 <tr>
@@ -221,7 +221,7 @@ We used three levels: 0.07, 0.09 and 0.11. Bellow we show the output of the simu
 
 ---
 
-### Complince (E) vs Total population (Adults + Juveniles)
+### Compliance (E) vs Total population (Adults + Juveniles)
 <div align="center">
 <table>
 <tr>
